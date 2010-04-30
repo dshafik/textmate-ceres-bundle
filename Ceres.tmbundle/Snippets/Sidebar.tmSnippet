@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{sidebar ${1:Title}
+
+${2:Content}
+}}</string>
+	<key>name</key>
+	<string>Sidebar</string>
+	<key>tabTrigger</key>
+	<string>sidebar</string>
+	<key>uuid</key>
+	<string>8FDF8E21-64D3-4C27-9AAE-B9ACC3FD2A29</string>
+</dict>
+</plist>
