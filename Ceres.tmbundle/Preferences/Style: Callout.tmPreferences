@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Spell Checking: Enable</string>
+	<string>Style: Callout</string>
 	<key>scope</key>
-	<string>string.other.body</string>
+	<string>entity.name.callout</string>
 	<key>settings</key>
 	<dict>
-		<key>spellChecking</key>
-		<string>1</string>
+		<key>background</key>
+		<string>#5685E3</string>
+		<key>foreground</key>
+		<string>#FFFFFF</string>
 	</dict>
 	<key>uuid</key>
-	<string>399D65CB-7CA9-4F91-B454-11EA9F6D1501</string>
+	<string>AA81072C-E3A0-4162-8E02-707509228010</string>
 </dict>
 </plist>

@@ -2,16 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>name</key>
-	<string>Style: Italic</string>
-	<key>scope</key>
-	<string>markup.italic</string>
-	<key>settings</key>
+	<key>changed</key>
 	<dict>
-		<key>italic</key>
-		<string>1</string>
+		<key>scope</key>
+		<string>entity.name.title.article</string>
 	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
 	<key>uuid</key>
-	<string>E56A2C36-2C1B-4BB9-9317-DC1932732572</string>
+	<string>B55A8D4F-9C29-47D0-8244-FE3678A3E0DF</string>
 </dict>
 </plist>

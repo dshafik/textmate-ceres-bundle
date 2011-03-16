@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;code javascript&gt;
-$0
-&lt;/code&gt;</string>
+	<string>{{callout ${1:Content}}}</string>
 	<key>name</key>
-	<string>JavaScript Code Block</string>
+	<string>Callout</string>
 	<key>tabTrigger</key>
-	<string>code</string>
+	<string>callout</string>
 	<key>uuid</key>
-	<string>7E27868A-957E-4D09-9EE5-5A2FE66061A0</string>
+	<string>1B67CFEF-2021-412C-B276-C6E5C9D1343D</string>
 </dict>
 </plist>

@@ -2,13 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>content</key>
-	<string>''${1:Code}''</string>
-	<key>name</key>
-	<string>Inline Code</string>
-	<key>tabTrigger</key>
-	<string>''</string>
+	<key>changed</key>
+	<dict/>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
 	<key>uuid</key>
-	<string>52D2B6BC-5A9E-4F2D-B237-A0308A86C251</string>
+	<string>E56A2C36-2C1B-4BB9-9317-DC1932732572</string>
 </dict>
 </plist>
