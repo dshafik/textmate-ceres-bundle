@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{{callout ${1:Content}}}</string>
+	<string>{{callout ${1:Content}</string>
 	<key>name</key>
 	<string>Callout</string>
 	<key>tabTrigger</key>

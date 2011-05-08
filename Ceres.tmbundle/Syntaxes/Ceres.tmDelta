@@ -357,6 +357,34 @@
 			</dict>
 			<dict>
 				<key>begin</key>
+				<string>(&lt;code&gt;)</string>
+				<key>captures</key>
+				<dict>
+					<key>1</key>
+					<dict>
+						<key>name</key>
+						<string>markup.code</string>
+					</dict>
+					<key>3</key>
+					<dict>
+						<key>name</key>
+						<string>markup.code</string>
+					</dict>
+				</dict>
+				<key>contentName</key>
+				<string>markup.code.block</string>
+				<key>end</key>
+				<string>(&lt;/code&gt;)</string>
+				<key>patterns</key>
+				<array>
+					<dict>
+						<key>include</key>
+						<string>text.html.basic</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>begin</key>
 				<string>(\{\{figure )(.*?)</string>
 				<key>captures</key>
 				<dict>
